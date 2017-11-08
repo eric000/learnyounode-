@@ -3,3 +3,5 @@
 - [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/):smile:
 - 还有究竟是谁给我挖的坑？:neckbeard: :flushed:  
 ps.markdown的复选框究竟能好好支持么=。=
+
+![说明文本](200.png)
